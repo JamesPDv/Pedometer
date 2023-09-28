@@ -1,9 +1,10 @@
 # Pedometer
 
-1. Extract the ZIP file on to your Desktop
-2. Open terminal and go to the directory: cd Desktop\Pedometer-main
-3. type "npx expo start"
-4. scan the QR code on the terminal
+1. Download Node.js LTS version only!
+2. Extract the ZIP file on to your Desktop
+3. Open terminal and go to the directory: cd Desktop\Pedometer-main
+4. type "npx expo start"
+5. scan the QR code on the terminal
 
 
 
