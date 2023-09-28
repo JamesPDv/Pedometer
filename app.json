@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Pedometer-app",
+    "slug": "Pedometer-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    //"icon": "",
+    "splash": {
+      "image": "./assets/Capture.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#81B29A"
+      }
+    },
+    "web": {
+      //"favicon": ""
+    }
+  }
+}
